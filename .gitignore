@@ -1,15 +1,10 @@
-# ASP.NET Core
+# ASP.NET Core / Visual Studio
 bin/
 obj/
 .vs/
 *.user
+*.suo
 appsettings.Development.json
-
-# React
-node_modules/
-build/
-dist/
-.env
 
 # IDE / OS
 .vscode/
